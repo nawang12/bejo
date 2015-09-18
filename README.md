@@ -1,2 +1,0 @@
-# bejo
-debianku7
